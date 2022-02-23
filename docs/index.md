@@ -76,7 +76,7 @@ Xkeys programming with MacroWorks 3.1 on a Windows 10 Parallels VM.
 
 ## Topics
 
-### Integrating QLab with Nomad via OSC
+### [Integrating QLab with Nomad via OSC](nomad-via-osc.md)
 
 ### QLab Template
 
