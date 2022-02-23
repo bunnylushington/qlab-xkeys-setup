@@ -2,21 +2,21 @@
 
 ## Introduction
 
-Hi.  I work as a technical director for the New Orleans based Radical
-Buffoon(s) theater collective and am the proprietor of the Fortress of
-Lushington, a 50 seat black box venue.  During the day I'm a
-professional computer programmer concentrating on data analytics and
-release management.
+Hi.  I work as a technical director for the New Orleans based [Radical
+Buffoon(s)](https://radicalbuffoons.com) theater collective and am the
+proprietor of the [Fortress of Lushington,](http://fortressnola.com) a
+50 seat black box venue.  During the day I'm a professional computer
+programmer concentrating on data analytics and release management.
 
-I've recently introduced an Xkeys keyboard into my lighting/sound rig
-and thought I'd document some of the work that entailed.  Part of the
-work is designing a key layout and part is creating ancillary scripts
-to assist with programming.
+I've recently introduced an [Xkeys XK-60](https://xkeys.com/xk60.html)
+keyboard into my lighting/sound rig and thought I'd document some of
+the work that entailed.  Part of the work is designing a key layout
+and part is creating ancillary scripts to assist with programming.
 
 ## Rationale
 
 With some rare exceptions, I use
-[ETCnomad)(https://www.etcconnect.com/Products/Consoles/Eos-Family/ETCnomad-ETCnomad-Puck/Overview.aspx)
+[ETCnomad](https://www.etcconnect.com/Products/Consoles/Eos-Family/ETCnomad-ETCnomad-Puck/Overview.aspx)
 for designing lighting cues and [QLab](qlab.app) for sound and video.
 I also use QLab during productions to fire Nomad cues via OSC.  Having
 one cue stack where lights and sound can be synced has worked out
@@ -39,9 +39,12 @@ sometimes mistake shortcut keys from one program with another's,
 sometimes with (ahem) "interesting" results.
 
 Note that I did not set out to replicate the layout of an EOS
-progamming surface.  Not only are there not enough keys for that but
-I'm aiming for some consistency between QLab mappings and Nomad
-mappings where it makes sense.
+progamming surface. I'm aiming for some consistency between QLab
+mappings and Nomad mappings where it makes sense.
+
+(But note, if what **you** want is an Xkeys programming surface for
+Nomad, ETC [has some good
+news.](https://support.etcconnect.com/ETC/Consoles/Eos_Family/Software_and_Programming/X_Keys_and_Eos_Family_Consoles))
 
 ### Reducing the Number of Repetative Tasks
 
@@ -82,3 +85,28 @@ Xkeys programming with MacroWorks 3.1 on a Windows 10 Parallels VM.
 ### Keyboard Layout
 
 ### Toggling EOS/QLab from the Xkeys
+
+## Acknowledgements
+
+I've cribbed together a lot of this information and taken inspiration
+from other folks.  Notably:
+
+  * [The QLab Cookbook](https://qlab.app/cookbook) generally
+  * [How To Become a Fade Ninja](https://qlab.app/cookbook/how-to-become-a-fade-ninja)
+  * [Sam's Toolbox](https://qlab.app/tutorials/sams-toolbox)
+  * [samschloegel/qlab-scripts on GitHub](https://github.com/samschloegel/qlab-scripts)
+
+I highly recommend these resources!  Likewise, If you are programming
+QLab and have not read [the documentation](https://qlab.app/docs/v4/)
+you're missing out.
+
+Note that any errors are probably mine (let me know!) and I am in no
+way affiliated with ETC, Figure53, Xkeys, or any of the above
+mentioned projects.
+
+If you're someone whom I've borrowed from and wish to be acknowledged
+in a particular way or have any other concerns, please get in touch.
+
+## Author
+
+Bunny Lushington; February 2022; New Orleans
