@@ -84,7 +84,7 @@ Xkeys programming with MacroWorks 3.1 on a Windows 10 Parallels VM.
 
 ### Keyboard Layout
 
-### Toggling EOS/QLab from the Xkeys
+### [Toggling EOS/QLab from the Xkeys](toggling.md)
 
 ## Acknowledgements
 
