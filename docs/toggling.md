@@ -81,7 +81,6 @@ defaults write pbs NSServicesStatus -dict-add \
 ### MacroWorks Configuration
 
 Layer One (Qlab/blue):
-
 ![Nomad Toggle](img/toggle-to-eos.png)
 
 Layer Two (Nomad/red):
