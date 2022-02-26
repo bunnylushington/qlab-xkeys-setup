@@ -2,12 +2,6 @@
 
 ## Introduction
 
-Hi.  I work as a technical director for the New Orleans based [Radical
-Buffoon(s)](https://radicalbuffoons.com) theater collective and am the
-proprietor of the [Fortress of Lushington,](http://fortressnola.com) a
-50 seat black box venue.  During the day I'm a professional computer
-programmer concentrating on data analytics and release management.
-
 I've recently introduced an [Xkeys XK-60](https://xkeys.com/xk60.html)
 keyboard into my lighting/sound rig and thought I'd document some of
 the work that entailed.  Part of the work is designing a key layout
