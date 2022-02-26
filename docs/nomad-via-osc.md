@@ -131,4 +131,4 @@ to clear up the problem.
 
 ## Author
 
-  Bunny Lushington; February 2022; New Orleans
+  Bunny Lushington; February 2022

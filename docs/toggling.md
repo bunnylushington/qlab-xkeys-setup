@@ -100,4 +100,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Author
 
-Bunny Lushington; February 2022; New Orleans
+Bunny Lushington; February 2022

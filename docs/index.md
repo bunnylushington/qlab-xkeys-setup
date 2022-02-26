@@ -25,7 +25,7 @@ key access to the functions I use most often.
 
 My goals include:
 
-##### Easier QLab and Nomad Function Access
+#### Easier QLab and Nomad Function Access
 
 Everything the Xkeys can do can also be done by memorizing keyboard
 shortcuts; however, I find that I not only forget the shortcuts but I
@@ -40,7 +40,7 @@ mappings and Nomad mappings where it makes sense.
 Nomad, ETC [has some good
 news.](https://support.etcconnect.com/ETC/Consoles/Eos_Family/Software_and_Programming/X_Keys_and_Eos_Family_Consoles))
 
-##### Reducing the Number of Repetative Tasks
+#### Reducing the Number of Repetative Tasks
 
 So much QLab programming is repetative.  For instance, in my
 environment where I'm using OSC to trigger Nomad, each lighting cue
@@ -49,7 +49,7 @@ simple Applescript and a dedicated key, I'm able to create the
 appropriate network cue in seconds.  And because the creation of the
 cue is scripted, mistakes are less likely.
 
-##### Improving Consistency
+#### Improving Consistency
 
 Keeping cues consistent (naming and numbering conventions, cue colors,
 and so on) aids considerably in the technical rehearsal process and
@@ -101,4 +101,4 @@ in a particular way or have any other concerns, please get in touch.
 
 ## Author
 
-Bunny Lushington; February 2022; New Orleans
+Bunny Lushington; February 2022
