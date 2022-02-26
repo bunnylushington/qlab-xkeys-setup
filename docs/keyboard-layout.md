@@ -43,6 +43,8 @@ Keys are labelled with QLab (layer one/blue) functions on top and EOS
 (layer two/red) functions below.  Keys not mentioned are (I hope) self
 explainatory.
 
+![Xkeys Layout](img/xkeys-layout.png)
+
 ### Top Section
 
 | QLab Label        | QLab Function                    | EOS Label | EOS Function                    |
