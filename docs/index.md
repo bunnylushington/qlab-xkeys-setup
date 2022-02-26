@@ -78,11 +78,9 @@ Xkeys programming with MacroWorks 3.1 on a Windows 10 Parallels VM.
 
 ### [Integrating QLab with Nomad via OSC](nomad-via-osc.md)
 
-### QLab Template
+### [QLab Template](qlab-template.md)
 
-### QLab Macros
-
-### Keyboard Layout
+### [Keyboard Layout](keyboard-layout.md)
 
 ### [Toggling EOS/QLab from the Xkeys](toggling.md)
 
